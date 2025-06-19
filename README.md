@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my life**
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 I’m currently learning **C#, REST API, ASP.NET, .NET**
 
 - 👯 I’m looking to collaborate on **coding stuff**
 
