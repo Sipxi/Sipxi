@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **coding stuff**
 
-- 🤝 I’m looking for help with **anything**
+- 🤝 I’m looking for help with **.NET**
 
 - 💬 Ask me about **anything**
 
