@@ -16,7 +16,7 @@
 - 📫 How to reach me **sipxi@email.cz**
 
 <h3 align="left">My Website</h3>
-<a href="sipxi.me" > My website </h3>
+<a href="https://sipxi.me/" > Click me! </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
