@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serhij Čepil (aka Sipxi)</h1>
 <h3 align="center">Currently VUT FIT Bachelor Student...</h3>
-<a href="sipxi.me" > My website </h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sipxi&label=Profile%20views&color=0e75b6&style=flat" alt="sipxi" /> </p>
 
 - 🔭 I’m currently working on **my life**
@@ -14,6 +14,9 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **sipxi@email.cz**
+
+<h3 align="left">My Website</h3>
+<a href="sipxi.me" > My website </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
