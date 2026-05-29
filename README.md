@@ -9,7 +9,7 @@ Passionate about building elegant software, teaching the next generation of deve
 
 - 🎓 Studying **Information Technology** @ Brno University of Technology (FIT VUT)
 - 🏫 Teaching **Python & Flask** @ Orange Academy - 12-week web dev programs
-- 🌱 Currently leveling up in **C#, ASP.NET Core, REST APIs & .NET**
+- ⚙️ Currently leveling up in **systems programming, C & industrial software**
 - 🤝 Open to collaborating on interesting projects
 - 🌐 Portfolio: **[sipxi.me](https://sipxi.me)**
 
