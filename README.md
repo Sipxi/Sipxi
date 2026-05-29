@@ -1,29 +1,53 @@
-<h1 align="center">Hi 👋, I'm Serhij Čepil (aka Sipxi)</h1>
-<h3 align="center">Currently VUT FIT Bachelor Student...</h3>
+# Hey, I'm Serhij Čepil (aka Sipxi) 👋
+### Software Engineer · Python Instructor · VUT FIT Student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sipxi&label=Profile%20views&color=0e75b6&style=flat" alt="sipxi" /> </p>
+Passionate about building elegant software, teaching the next generation of developers, and solving real-world problems with code. Based in **Brno, Czech Republic 🇨🇿**.
 
-- 🔭 I’m currently working on **my life**
+---
 
-- 🌱 I’m currently learning **C#, REST API, ASP.NET, .NET**
+## 🧭 What I'm up to
 
-- 👯 I’m looking to collaborate on **coding stuff**
+- 🎓 Studying **Information Technology** @ Brno University of Technology (FIT VUT)
+- 🏫 Teaching **Python & Flask** @ Orange Academy - 12-week web dev programs
+- 🌱 Currently leveling up in **C#, ASP.NET Core, REST APIs & .NET**
+- 🤝 Open to collaborating on interesting projects
+- 🌐 Portfolio: **[sipxi.me](https://sipxi.me)**
 
-- 🤝 I’m looking for help with **.NET**
+---
 
-- 💬 Ask me about **anything**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **sipxi@email.cz**
+**Languages**
 
-<h3 align="left">My Website</h3>
-<a href="https://sipxi.me/" > Click me! </h3>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
+**Frameworks & Tools**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sipxi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sipxi@email.cz) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
-</p>
+---
 
-<h3 align="left">Tech Stack:</h3>
+## 🏆 Highlights
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e)
+- 🥉 **3rd Place** — DataSentics & NLP@FIT Hackathon (Feb 2026) — NLP pipeline for news comment classification
+
+---
+
+## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sipxi)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serhij.cepil@seznam.cz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://sipxi.me)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=sipxi&label=Profile%20views&color=0e75b6&style=flat)
