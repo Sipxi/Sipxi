@@ -9,7 +9,7 @@ Passionate about building elegant software, teaching the next generation of deve
 
 - 🎓 **3rd year Bachelor's** in Information Technology @ Brno University of Technology (FIT VUT)
 - 🏫 Teaching **Python & Flask** @ Orange Academy - 12-week web dev programs
-- ⚙️ Currently leveling up in **systems programming, C & industrial software**
+- ⚙️ Currently leveling up in **systems programming, Python & industrial software**
 - 🤝 Open to collaborating on interesting projects
 - 🌐 Portfolio: **[sipxi.me](https://sipxi.me)**
 
