@@ -1,15 +1,16 @@
 # Hey, I'm Serhij Čepil (aka Sipxi) 👋
 ### Software Engineer · Python Instructor · VUT FIT Student
 
-Passionate about building elegant software, teaching the next generation of developers, and solving real-world problems with code. Based in **Brno, Czech Republic 🇨🇿**.
+I love building software, teaching the next generation of developers, and solving real-world problems with code. Based in **Brno, Czech Republic 🇨🇿**.
 
 ---
 
 ## 🧭 What I'm up to
 
 - 🎓 **3rd year Bachelor's** in Information Technology @ Brno University of Technology (FIT VUT)
+- 💼 Working @ onsemi as IP Software Engineer
 - 🏫 Teaching **Python & Flask** @ Orange Academy - 12-week web dev programs
-- ⚙️ Currently leveling up in **systems programming, Python & industrial software**
+- ⚙️ Currently leveling up in **architecture, python & industrial software**
 - 🤝 Open to collaborating on interesting projects
 - 🌐 Portfolio: **[sipxi.me](https://sipxi.me)**
 
