@@ -8,7 +8,6 @@ I love building software, teaching the next generation of developers, and solvin
 ## 🧭 What I'm up to
 
 - 🎓 **3rd year Bachelor's** in Information Technology @ Brno University of Technology (FIT VUT)
-- 💼 Working @ onsemi as IP Software Engineer
 - 🏫 Teaching **Python & Flask** @ Orange Academy - 12-week web dev programs
 - ⚙️ Currently leveling up in **architecture, python & industrial software**
 - 🤝 Open to collaborating on interesting projects
