@@ -46,7 +46,6 @@ I love building software, teaching the next generation of developers, and solvin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sipxi)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:serhij.cepil@seznam.cz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://sipxi.me)
 
 ---
 
